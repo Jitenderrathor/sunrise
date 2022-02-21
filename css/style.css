@@ -1,0 +1,152 @@
+                /* Font decleartioin  */
+                
+                @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+                body {
+                    font-family: 'Noto Serif', serif;
+                    font-family: 'Roboto', sans-serif;
+                }
+                
+                h1 {
+                    font-family: 'Noto Serif', serif;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 40px;
+                    line-height: 54px;
+                    color: #000000;
+                }
+                /* header start */
+                
+                a.navbar-brand {
+                    font-family: 'Noto Serif', serif;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 20px;
+                    line-height: 27px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                a.nav-link {
+                    font-family: 'Roboto', sans-serif;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 16px;
+                    line-height: 19px;
+                    text-align: center;
+                    color: #000000 !important;
+                }
+                
+                a.but {
+                    display: block;
+                    width: 148px;
+                    height: 27px;
+                    line-height: 27px;
+                    text-align: center;
+                    text-decoration: none;
+                    color: #fff;
+                    background-color: #0CB1EC;
+                }
+                /* header end  */
+                /* Banner start  */
+                
+                .banner {
+                    padding: 100px 0;
+                    margin-top: 53px;
+                }
+                
+                .banner img {
+                    width: 100%;
+                }
+                /* Banner end  */
+                /* About start  */
+                
+                .about {
+                    background-color: #2596BE;
+                    /* text-align: justify; */
+                }
+                
+                .about {
+                    color: #fff !important;
+                }
+                
+                .about h1 {
+                    color: #fff !important;
+                }
+                
+                .about img {
+                    width: 100%;
+                }
+                
+                .about .col-11 {
+                    background-color: #C4C4C4;
+                }
+                
+                .about .col-11 p {
+                    width: 90%;
+                    text-align: justify;
+                    margin: auto;
+                    color: #3A3A3A;
+                }
+                /* About end  */
+                /* Mission start  */
+                
+                .mission .img img {
+                    width: 100%;
+                }
+                
+                .mission li.d-flex {
+                    align-items: center;
+                }
+                
+                .mission li.d-flex img {
+                    width: 30px;
+                    margin-right: 10px;
+                }
+                /* Mission end  */
+                /* We care start  */
+                
+                .we_care {
+                    background-color: #C4C4C4;
+                }
+                
+                .we_care h5 {
+                    color: #0CB1EC;
+                }
+                /* We care end  */
+                
+                .author {
+                    background-color: #6B6B6B;
+                }
+                
+                .gov .slider .col img {
+                    width: 80%;
+                    margin: auto;
+                }
+                
+                @media screen and (max-width:576px) {
+                    .gov .slider .col img {
+                        width: 80%;
+                        margin: auto;
+                    }
+                }
+                
+                .gov .slider .col {
+                    background-color: #C4C4C4;
+                    border-radius: 4px;
+                    height: 298px !important;
+                }
+                
+                .gov .slider .col p {
+                    margin: 0;
+                    margin-top: 10px;
+                }
+                
+                .corp {
+                    background-color: #0CB1EC;
+                }
+                
+                .corp .col-2 {
+                    background-color: #C4C4C4;
+                    border-radius: 4px;
+                    height: 222px;
+                }
